@@ -1,0 +1,5 @@
+Observations:
+1. There is almost an even split between male vs. female test.
+2. There seems to be linear correlation between weight & tumor volume.
+2. Capomulin and Ramicane are the ones reducing or containing tumor volumes.
+3. Capolumin was the most effoect drug in reducing the average tumor size.
